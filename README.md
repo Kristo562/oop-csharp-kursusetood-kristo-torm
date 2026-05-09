@@ -1,6 +1,6 @@
 # Kristo Torm - OOP tööd C# keeles
 
-Need on samad OOP kursusetööd ja kursuseprojekt C# Windows Forms kujul.
+Need on OOP kursusetööd ja kursuseprojekt C# Windows Forms kujul.
 
 ## Projektid
 
