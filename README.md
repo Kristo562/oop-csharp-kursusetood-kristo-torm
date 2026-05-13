@@ -75,7 +75,7 @@ Selles projektis harjutasin rohkem mänguloogikat, massiivi kasutamist, nuppude 
 
 Näiteks kursuseprojekti avamiseks:
 
-Torm_OOP_Kursusprojekt_CSharp/Torm_OOP_Kursusprojekt_CSharp.sln
+`Torm_OOP_Kursusprojekt_CSharp/Torm_OOP_Kursusprojekt_CSharp.sln`
 
 ## Valmis programmide allalaadimine
 
