@@ -67,13 +67,27 @@ Mängus on:
 
 Selles projektis harjutasin rohkem mänguloogikat, massiivi kasutamist, nuppude dünaamilist käsitlemist ja võidutingimuste kontrollimist.
 
-## Kuidas käivitada
+## Kuidas avada lähtekoodi Visual Studios
 
 1. Ava soovitud projekti kaust.
 2. Ava `.sln` fail Visual Studios.
 3. Vajuta `Start` või `F5`.
 
-Näiteks kursuseprojekti avamiseks:
+## Valmis programmide allalaadimine
+
+Valmis käivitatavad `.exe` versioonid on leitavad GitHubi **Releases** sektsioonist.
+
+Allalaadimiseks:
+1. Ava repository lehel **Releases**.
+2. Lae alla soovitud `.rar` fail.
+3. Paki fail lahti.
+4. Käivita `.exe` fail.
+
+Release'is on olemas:
+- KT1 – greeting, color selection and simple addition
+- KT2 – random number game
+- KT3 – dice game
+- Course project – Tic Tac Toe
 
 ```text
 Torm_OOP_Kursusprojekt_CSharp/Torm_OOP_Kursusprojekt_CSharp.sln
