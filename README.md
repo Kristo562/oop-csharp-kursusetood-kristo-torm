@@ -73,6 +73,10 @@ Selles projektis harjutasin rohkem mänguloogikat, massiivi kasutamist, nuppude 
 2. Ava `.sln` fail Visual Studios.
 3. Vajuta `Start` või `F5`.
 
+Näiteks kursuseprojekti avamiseks:
+
+Torm_OOP_Kursusprojekt_CSharp/Torm_OOP_Kursusprojekt_CSharp.sln
+
 ## Valmis programmide allalaadimine
 
 Valmis käivitatavad `.exe` versioonid on leitavad GitHubi **Releases** sektsioonist.
@@ -88,6 +92,3 @@ Release'is on olemas:
 - KT2 – random number game
 - KT3 – dice game
 - Course project – Tic Tac Toe
-
-```text
-Torm_OOP_Kursusprojekt_CSharp/Torm_OOP_Kursusprojekt_CSharp.sln
